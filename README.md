@@ -31,7 +31,7 @@ kayla18cl@gmail.com
       <td valign="text-top">Second Chance is a story based game where it tells about a ex-inmate's life and the struggles they face to go back to society. My contributions include serving as the main game programmer, where I programmed the game from the beginning, and also help in giving some advice to the game's designs. This project is completed in 2 months for a competition by MAGE X.</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/scarletrosez/SecondChance">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/KaylaCynthia/SecondChance">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://github.com/Sightyyy/Stabilicorp">Read More</a></td> <!--link2-->
     </tr>
     <tr>
