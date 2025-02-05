@@ -1,7 +1,7 @@
 Hi, I'm Kayla 👋
 ---
 **📌About** <br>
-Hi, I'm Kayla Cynthia Lukman, also known as ScarletRoseZ. I specialize in 2D game programming. I've created various games for competitions and university projects, highlighting my skills in game programming.
+Hi, I'm Kayla Cynthia Lukman, usually known as Kayla. I specialize in 2D game programming. I've created various games for competitions and university projects, highlighting my skills in game programming.
 
 I'm passionate about programming, especially in game programming. I develop 2D platforming games, and simple storyline games.
 
