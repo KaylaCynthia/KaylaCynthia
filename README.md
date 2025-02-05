@@ -20,10 +20,10 @@ kayla18cl@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/4a8c7fc0-e69d-4f29-9c5f-2e6e4cedd5c4" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/4bef118e-cb04-4ec3-ab3e-67e2c8c02710" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/4a8c7fc0-e69d-4f29-9c5f-2e6e4cedd5c4" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/4bef118e-cb04-4ec3-ab3e-67e2c8c02710" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
