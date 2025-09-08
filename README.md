@@ -31,7 +31,7 @@ kayla18cl@gmail.com
       <td valign="text-top">Stabilicorp is a survival game where you, as a chosen new CEO of your own company, tries to make the right decisions to keep the company alive. My contributions to this project is serving as the main game programmer, where I programmed the game from the beginning. This project is completed in around 1 and a half month for a university project.</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/KaylaCynthia/SEProject">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://ajege.itch.io/grow-yuk">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://github.com/Sightyyy/Stabilicorp">Read More</a></td> <!--link2-->
     </tr>
     <tr>
