@@ -35,8 +35,8 @@ kayla18cl@gmail.com
       <td align="center"><a href="https://github.com/Sightyyy/Stabilicorp">Read More</a></td> <!--link2-->
     </tr>
     <tr>
-      <td align="center"><a href="https://drive.google.com/file/d/143gmU0gfbIrlnpHUEtJuc0XyaunbHtJO/view?usp=sharing">Gameplay Video</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/user-attachments/assets/b3fa9853-8568-4eba-9ee1-535bb0755bdd">Trailer</a></td> <!--link2-->
+      <td align="center"><a href="https://ajege.itch.io/grow-yuk">Itch io</a></td> <!--link1-->
+      <td align="center"><a href="https://sightyy.itch.io/stabilicorp">Itch io</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
@@ -67,7 +67,7 @@ kayla18cl@gmail.com
     </tr>
     <tr>
       <td align="center"><a href="https://youtu.be/P3GypmFbVUo?si=-fzdLrv_L9rktAt0">Trailer</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/user-attachments/assets/6f438cdf-6778-4b36-87f2-511fe662add6">Trailer</a></td> <!--link2-->
+      <td align="center"><a href="https://bgdc.itch.io/fire-fire">Itch io</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
