@@ -35,8 +35,8 @@ kayla18cl@gmail.com
       <td align="center"><a href="https://github.com/Sightyyy/Stabilicorp">Read More</a></td> <!--link2-->
     </tr>
     <tr>
-      <td align="center"><a href="https://ajege.itch.io/grow-yuk">Itch io</a></td> <!--link1-->
-      <td align="center"><a href="https://sightyy.itch.io/stabilicorp">Itch io</a></td> <!--link2-->
+      <td align="center"><a href="https://ajege.itch.io/grow-yuk">Itch Page</a></td> <!--link1-->
+      <td align="center"><a href="https://sightyy.itch.io/stabilicorp">Itch Page</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
@@ -66,8 +66,8 @@ kayla18cl@gmail.com
       <td align="center"><a href="https://github.com/Revcy/BGDC-PKM2024">Read More</a></td> <!--link2-->
     </tr>
     <tr>
-      <td align="center"><a href="https://youtu.be/P3GypmFbVUo?si=-fzdLrv_L9rktAt0">Trailer</a></td> <!--link1-->
-      <td align="center"><a href="https://bgdc.itch.io/fire-fire">Itch io</a></td> <!--link2-->
+      <td align="center"><a href="https://drive.google.com/drive/folders/1u4E_sG5CSwpbkXPBrfrxuim8PoMSPSnt">GDrive Link</a></td> <!--link1-->
+      <td align="center"><a href="https://bgdc.itch.io/fire-fire">Itch Page</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
