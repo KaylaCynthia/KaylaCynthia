@@ -54,7 +54,7 @@ kayla18cl@gmail.com
         <img src="https://github.com/user-attachments/assets/4bef118e-cb04-4ec3-ab3e-67e2c8c02710" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/6f438cdf-6778-4b36-87f2-511fe662add6" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/04a84a90-c693-4965-84cb-693420d01e2a" alt="1" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
